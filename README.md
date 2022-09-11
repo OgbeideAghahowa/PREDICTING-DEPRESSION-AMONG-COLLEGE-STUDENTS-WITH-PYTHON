@@ -5,4 +5,4 @@ One of the causes of depression is chronic stress, and it is no wonder this diso
 2. What are the factors that most likely indicate a student is depressed?
 3. Are students of a particular gender more prone to this illness?
 4. Can we predict if a student is depressed if we have some data?
-  These questions, and many more, are what this analysis aimed to answer. This analysis was done with Python, and a one-page report was created with Power BI Desktop. You can check out the medium article here.
+These questions, and many more, are what this analysis aimed to answer. This analysis was done with Python, and a one-page report was created with Power BI Desktop. You can check out the medium article here.
