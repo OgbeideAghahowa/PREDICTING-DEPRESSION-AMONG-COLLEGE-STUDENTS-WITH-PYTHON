@@ -1,6 +1,7 @@
 # ANALYZING AND PREDICTING DEPRESSION AMONG COLLEGE STUDENTS
 
 ![](PREDICTING-DEPRESSION-AMONG-COLLEGE-STUDENTS-WITH-PYTHON/anthony-tran-vXymirxr5ac-unsplash.jpg)
+❮img src="images/PREDICTING-DEPRESSION-AMONG-COLLEGE-STUDENTS-WITH-PYTHON/anthony-tran-vXymirxr5ac-unsplash.jpg" width="1000" ❯
 
   Depression is a mental health disorder characterized by a persistent feeling of sadness or loss of interest in activities you once enjoyed, usually with no known cause. According to the WHO, approximately 280 million people in the world are living with this illness, and over 700,000 people die yearly from suicide linked to depression. If you ask me, these are huge numbers and should be of Public Health concern.
 One of the causes of depression is chronic stress, and it is no wonder this disorder is prevalent among University students, but:
